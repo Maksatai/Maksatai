@@ -26,9 +26,9 @@ For cooperation contact!!!
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eldiyar0220&layout=compact&theme=dracula" width="45.5%" height="14%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksatai&layout=compact&theme=dracula" width="45.5%" height="14%"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Eldiyar0220&show_icons=true&theme=dracula" width="49.5%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Maksatai&show_icons=true&theme=dracula" width="49.5%"/>
 
 # __________________________________________
 
